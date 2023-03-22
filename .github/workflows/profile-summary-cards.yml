@@ -13,8 +13,8 @@ jobs:
     name: generate
 
     steps:
-      - uses: cybergarage/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v2
+      - uses: cybergarage/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
