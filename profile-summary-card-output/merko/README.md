@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/cybergarage/cybergarage/master/profile-summary-card-output/merko/4-productive-time.svg)
+```
+
+    
